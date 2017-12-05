@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MetroQuiz</string>
+    <string name="test_title">Московское метро</string>
+
+    <string name="question1">1. В каком году открылось метро в Москве?</string>
+    <string name="question1_hint">Напишите год одним числом</string>
+    <string name="answer1">1935</string>
+
+    <string name="question2">2. Каким цветом отмечена на схеме самая первая ветка?</string>
+    <string name="answer2_1">Красным</string>
+    <string name="answer2_2">Синим</string>
+    <string name="answer2_3">Зеленым</string>
+    <string name="answer2_4">Оранжевым</string>
+
+    <string name="question3">3. Какие станции относятся к совмещенному типу?</string>
+    <string name="answer3_1">Петровско-Разумовская</string>
+    <string name="answer3_2">Октябрьская</string>
+    <string name="answer3_3">Каширская</string>
+    <string name="answer3_4">Кропоткинская</string>
+
+    <string name="question4">4. Что часто делают студенты на станции "Площадь Революции"?</string>
+    <string name="answer4_1">Устраивают протестные митинги</string>
+    <string name="answer4_2">Считают плитки со звездами</string>
+    <string name="answer4_3">Фотографируют эскалаторы</string>
+    <string name="answer4_4">Трут носы бронзовым собакам</string>
+
+    <string name="question5">5. На какой станции есть фонтан?</string>
+    <string name="answer5_1">Речной вокзал</string>
+    <string name="answer5_2">Театральная</string>
+    <string name="answer5_3">Римская</string>
+    <string name="answer5_4">Водный стадион</string>
+
+    <string name="question6">6. В Москве есть станции, названные в честь столиц этих стран</string>
+    <string name="answer6_1">Румыния</string>
+    <string name="answer6_2">Чехия</string>
+    <string name="answer6_3">Словакия</string>
+    <string name="answer6_4">Болгария</string>
+
+    <string name="question7">7. Самая глубокая станция</string>
+    <string name="answer7_1">Парк культуры</string>
+    <string name="answer7_2">Парк Победы</string>
+    <string name="answer7_3">Таганская</string>
+    <string name="answer7_4">Тверская</string>
+
+    <string name="question8">8. До этих станций можно доехать от "Динамо" без пересадок</string>
+    <string name="answer8_1">Технопарк</string>
+    <string name="answer8_2">Третьяковская</string>
+    <string name="answer8_3">Варшавская</string>
+    <string name="answer8_4">Зябликово</string>
+
+    <string name="question9">9. Какое из этих названий никогда не носила нынешняя станция "Александровский сад"?</string>
+    <string name="answer9_1">Улица Коминтерна</string>
+    <string name="answer9_2">Горьковская</string>
+    <string name="answer9_3">Воздвиженка</string>
+    <string name="answer9_4">Калининская</string>
+
+    <string name="question10">10. Остановка автобуса названа в честь этой станции, названной в честь города, названного в честь реки</string>
+    <string name="question10_hint">Напишите название станции</string>
+    <string name="answer10">Волгоградский проспект</string>
+
+    <string name="check">Проверить</string>
+
+</resources>
