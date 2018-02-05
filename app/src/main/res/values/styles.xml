@@ -5,7 +5,12 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">#c00</item>
+    </style>
+
+    <style name="QuestionFont" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#ac824e</item>
+        <item name="android:textSize">18sp</item>
     </style>
 
 </resources>
