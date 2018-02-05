@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         EditText answer1 = (EditText) findViewById(R.id.answer1);
         String answer1_text = answer1.getText().toString();
-        if(answer1_text.equals(getString(R.string.answer1))){
+        if(answer1_text.equals(getResources().getString(R.string.answer1))){
             score++;
         }
 
@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
 
         EditText answer10 = (EditText) findViewById(R.id.answer10);
         String answer10_text = answer1.getText().toString().toLowerCase();
-        if(answer1_text.equals(getString(R.string.answer1).toLowerCase())){
+        if(answer10_text.equals(getResources().getString(R.string.answer10).toLowerCase())){
             score++;
         }
 
