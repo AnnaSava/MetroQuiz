@@ -8,9 +8,13 @@
         <item name="colorAccent">#c00</item>
     </style>
 
-    <style name="QuestionFont" parent="@android:style/TextAppearance.Medium">
+    <style name="QuestionFont" parent="AppTheme">
         <item name="android:textColor">#ac824e</item>
         <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="MyRadioCheckBox" parent="AppTheme">
+        <item name="colorControlNormal">@color/colorAnswer</item>
     </style>
 
 </resources>

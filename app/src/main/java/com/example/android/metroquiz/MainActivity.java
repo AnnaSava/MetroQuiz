@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         Context context = getApplicationContext();
-        String text = "score="+score+"/10";
+        String text = getResources().getString(R.string.result) + score + "/10";
         int duration = Toast.LENGTH_LONG;
 
         Toast toast = Toast.makeText(context, text, duration);

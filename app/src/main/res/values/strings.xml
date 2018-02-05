@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">MetroQuiz</string>
+    <string name="app_name" translatable="false">MetroQuiz</string>
     <string name="test_title">Московское метро</string>
 
     <string name="question1">1. В каком году открылось метро в Москве?</string>
     <string name="question1_hint">Напишите год одним числом</string>
-    <string name="answer1">1935</string>
+    <string name="answer1" translatable="false">1935</string>
 
     <string name="question2">2. Каким цветом отмечена на схеме самая первая ветка?</string>
     <string name="answer2_1">Красным</string>
@@ -12,7 +12,7 @@
     <string name="answer2_3">Зеленым</string>
     <string name="answer2_4">Оранжевым</string>
 
-    <string name="question3">3. Какие станции относятся к совмещенному типу?</string>
+    <string name="question3">3. Какие станции являются кросс-платформенными?</string>
     <string name="answer3_1">Петровско-Разумовская</string>
     <string name="answer3_2">Октябрьская</string>
     <string name="answer3_3">Каширская</string>
@@ -42,7 +42,7 @@
     <string name="answer7_3">Таганская</string>
     <string name="answer7_4">Тверская</string>
 
-    <string name="question8">8. До этих станций можно доехать от "Динамо" без пересадок</string>
+    <string name="question8">8. До этих станций можно доехать от Динамо без пересадок</string>
     <string name="answer8_1">Технопарк</string>
     <string name="answer8_2">Третьяковская</string>
     <string name="answer8_3">Варшавская</string>
@@ -59,5 +59,7 @@
     <string name="answer10">Волгоградский проспект</string>
 
     <string name="check">Проверить</string>
+
+    <string name="result">Результат: </string>
 
 </resources>
